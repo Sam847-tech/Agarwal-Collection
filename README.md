@@ -1,2 +1,3 @@
-# Agarwal-Collection
-This is a mobile app of my business
+# Agarwal Collection E-Commerce App
+
+This is the initial structure of the Agarwal Collection E-Commerce application built with React.
